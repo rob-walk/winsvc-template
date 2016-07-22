@@ -1,0 +1,13 @@
+.vs/
+packages/
+
+Ws.ConsoleDebugger/bin/
+Ws.ConsoleDebugger/obj/
+
+Ws.Shell/bin/
+Ws.Shell/obj/
+
+Tests/Ws.ServiceExec/bin/
+Tests/Ws.ServiceExec/obj/
+
+

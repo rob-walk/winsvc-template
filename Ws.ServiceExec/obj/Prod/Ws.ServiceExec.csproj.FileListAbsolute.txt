@@ -1,0 +1,9 @@
+D:\projects\rowtech\winsvc-template\Ws.ServiceExec\bin\Prod\Ws.ServiceExec.dll
+D:\projects\rowtech\winsvc-template\Ws.ServiceExec\bin\Prod\Ws.ServiceExec.pdb
+D:\projects\rowtech\winsvc-template\Ws.ServiceExec\bin\Prod\Autofac.dll
+D:\projects\rowtech\winsvc-template\Ws.ServiceExec\bin\Prod\log4net.dll
+D:\projects\rowtech\winsvc-template\Ws.ServiceExec\bin\Prod\Autofac.xml
+D:\projects\rowtech\winsvc-template\Ws.ServiceExec\bin\Prod\log4net.xml
+D:\projects\rowtech\winsvc-template\Ws.ServiceExec\obj\Prod\Ws.ServiceExec.csprojResolveAssemblyReference.cache
+D:\projects\rowtech\winsvc-template\Ws.ServiceExec\obj\Prod\Ws.ServiceExec.dll
+D:\projects\rowtech\winsvc-template\Ws.ServiceExec\obj\Prod\Ws.ServiceExec.pdb

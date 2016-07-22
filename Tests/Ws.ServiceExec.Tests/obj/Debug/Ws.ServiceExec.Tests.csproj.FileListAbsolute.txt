@@ -1,0 +1,7 @@
+D:\projects\rowtech\winsvc-template\Tests\Ws.ServiceExec.Tests\bin\Debug\Ws.ServiceExec.Tests.dll
+D:\projects\rowtech\winsvc-template\Tests\Ws.ServiceExec.Tests\bin\Debug\Ws.ServiceExec.Tests.pdb
+D:\projects\rowtech\winsvc-template\Tests\Ws.ServiceExec.Tests\bin\Debug\nunit.framework.dll
+D:\projects\rowtech\winsvc-template\Tests\Ws.ServiceExec.Tests\bin\Debug\nunit.framework.xml
+D:\projects\rowtech\winsvc-template\Tests\Ws.ServiceExec.Tests\obj\Debug\Ws.ServiceExec.Tests.dll
+D:\projects\rowtech\winsvc-template\Tests\Ws.ServiceExec.Tests\obj\Debug\Ws.ServiceExec.Tests.pdb
+D:\projects\rowtech\winsvc-template\Tests\Ws.ServiceExec.Tests\obj\Debug\Ws.ServiceExec.Tests.csprojResolveAssemblyReference.cache
